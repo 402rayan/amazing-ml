@@ -1,1 +1,3 @@
 *.gz
+/data
+my_database.duckdb
